@@ -1,0 +1,20 @@
+.calculator{
+    background-color: blanchedalmond;
+    border-radius: 5px;
+    width: 250px;
+    padding: 7px;
+    display: flex;
+    flex-wrap: wrap;
+}
+#dispbox{
+    width: 100%;
+    border: 1px solid;
+    padding: 9px;
+}
+.btn{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    margin-bottom: 10px;
+    margin-right: 9px;
+}
